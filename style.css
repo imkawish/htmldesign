@@ -1,0 +1,20 @@
+
+
+
+
+.navbar{
+ display: flex;
+ justify-content: space-around;
+ border: 1px solid grey;
+ padding: 14px;
+ border-top: none;
+ border-right: none;
+ border-left: none;
+
+}
+.menu a{
+    padding: 6px;
+    text-decoration: none;
+    color: grey;   
+}
+
